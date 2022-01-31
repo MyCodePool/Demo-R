@@ -14,18 +14,10 @@
   <p align="center">
    These work examples are for demonstration purposes only.
     <br />
-    <br />
-    <a href="https://github.com/MyCodePool/demo-r/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/MyCodePool/demo-r/issues">Request Feature</a>
   </p>
 </div>
 
-### Built With
 
-* [R](https://www.r-project.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
